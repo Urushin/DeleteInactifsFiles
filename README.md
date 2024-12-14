@@ -167,4 +167,3 @@ Le script génère un fichier de log nommé `NettoyageLog.txt` dans le dossier c
 ```
 
 **Bon nettoyage !** 🚀
-```
